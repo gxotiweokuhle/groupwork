@@ -30,7 +30,7 @@ header {
 
 .divider {
     display: grid;
-    background-color: rgb(236, 171, 171);
+    background-color: rgb(102, 17, 17);
 }
 
 
@@ -68,7 +68,7 @@ h1 {
 }
 
 .header {
-    background-color: rgb(56, 199, 68);
+    background-color: lightgray;
 }
 
 footer img {
@@ -87,7 +87,7 @@ footer ul img {
 }
 
 footer {
-    background-color: rgb(56, 199, 68);
+    background-color: lightgray;
 }
 
 .img-id {
@@ -132,5 +132,8 @@ a :hover{
     Background-color:aquamarine
 }
 body {
-    background-color: beige;
+    background-image: url("./4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
